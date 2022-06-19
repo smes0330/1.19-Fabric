@@ -43,4 +43,5 @@
 |Cloth Config API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 |Fabric API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)/[Modrinth](https://modrinth.com/mod/fabric-api)
 |LAN World Plug-n-Play|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp)/[Modrinth](https://modrinth.com/mod/mcwifipnp)
-|Mod Menu|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu)/[Modrinth](https://modrinth.com/mod/modmenu)<br>
+|Mod Menu|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu)/[Modrinth](https://modrinth.com/mod/modmenu)
+|Continuity|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/continuity)/[Modrinth](https://modrinth.com/mod/continuity)|<br>
