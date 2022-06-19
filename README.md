@@ -33,7 +33,9 @@
 |Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)
 |Inventory Profiles Next|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)/[Modrinth](https://modrinth.com/mod/inventory-profiles-next)
 |MasaGadget|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/masa-gadget)/[Modrinth](https://modrinth.com/mod/masa-gadget)
-|Oh My Minecraft Client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-my-minecraft-client)/[Modrinth](https://modrinth.com/mod/oh-my-minecraft-client)<br>
+|Oh My Minecraft Client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-my-minecraft-client)/[Modrinth](https://modrinth.com/mod/oh-my-minecraft-client)
+|BetterF3|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3)/[Modrinth](https://modrinth.com/mod/betterf3)
+<br>
 
 
 •其他模組<br>
