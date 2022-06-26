@@ -35,6 +35,7 @@
 |MasaGadget|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/masa-gadget)/[Modrinth](https://modrinth.com/mod/masa-gadget)
 |Oh My Minecraft Client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-my-minecraft-client)/[Modrinth](https://modrinth.com/mod/oh-my-minecraft-client)
 |BetterF3|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3)/[Modrinth](https://modrinth.com/mod/betterf3)
+|Litematica|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica)
 <br>
 
 
