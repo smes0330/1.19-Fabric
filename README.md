@@ -18,7 +18,7 @@
 |Indium |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium)/[Modrinth](https://modrinth.com/mod/indium)
 |LazyDFU |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu)/[Modrinth](https://modrinth.com/mod/lazydfu)
 |Lithium |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)/[Modrinth](https://modrinth.com/mod/lithium)
-|Reese's Sodium Options	|[CurseForge](https://modrinth.com/mod/reeses-sodium-options)[Modrinth](https://modrinth.com/mod/reeses-sodium-options)
+|Reese's Sodium Options	|[CurseForge](https://modrinth.com/mod/reeses-sodium-options)/[Modrinth](https://modrinth.com/mod/reeses-sodium-options)
 |Smooth Boot |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)/[Modrinth](https://modrinth.com/mod/smoothboot-fabric)
 |Sodium Extra |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)/[Modrinth](https://modrinth.com/mod/sodium-extra)
 |Sodium |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)/[Modrinth](https://modrinth.com/mod/sodium)
