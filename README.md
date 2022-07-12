@@ -9,7 +9,11 @@
 •優化模組<br>
 | 模组 | 連結 |
 |:-----|:----: |
-|Bobby |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bobby)/[Modrinth](https://modrinth.com/mod/bobby)|
+|WI Zoom|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)|
+|LambDynamicLights|[CurseForge]https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/[Modrinth](https://modrinth.com/mod/lambdynamiclights)|
+|FPS Reducer|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)|
+|FastChest|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastchest)|
+|Better Beds|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-beds)/[Modrinth](https://modrinth.com/mod/better-beds)|
 |Cull Leaves |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)/[Modrinth](https://modrinth.com/mod/cull-leaves)
 |Dynamic FPS |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)/[Modrinth](https://modrinth.com/mod/dynamic-fps)
 |Enhanced Block Entities |[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)/[Modrinth](https://modrinth.com/mod/ebe)
