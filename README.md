@@ -10,7 +10,7 @@
 | 模组 | 連結 |
 |:-----|:----: |
 |WI Zoom|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)|
-|LambDynamicLights|[CurseForge]https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/[Modrinth](https://modrinth.com/mod/lambdynamiclights)|
+|LambDynamicLights|[CurseForge]/[Modrinth](https://modrinth.com/mod/lambdynamiclights)|
 |FPS Reducer|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)|
 |FastChest|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastchest)|
 |Better Beds|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-beds)/[Modrinth](https://modrinth.com/mod/better-beds)|
