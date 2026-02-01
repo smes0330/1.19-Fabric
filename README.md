@@ -57,4 +57,4 @@
 
 •伺服器管理面板<br>
 |:-----|:----: |
-|OPanel|[官網]([https://www.curseforge.com/minecraft/mc-mods/cit-resewn)/[Modrinth](https://modrinth.com/mod/cit-resewn](https://opanel.cn/))
+|OPanel|[官網](https://opanel.cn/)
